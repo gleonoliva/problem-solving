@@ -1,0 +1,6 @@
+
+# Getting rid of the javac logs.
+javac-services*
+
+# Java .class
+**/*.class
