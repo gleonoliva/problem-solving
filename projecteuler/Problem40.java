@@ -2,13 +2,7 @@ package ProblemSolving.ProjectEuler;
 
 /**
  *
- * if(b == 900){
-                b = a;
-                a--;
-            } else {
-                b--;
-            }
-            c = a * b;
+ * Problem: http://projecteuler.net/problem=40
  * 
 An irrational decimal fraction is created by concatenating the positive integers:
 

@@ -1,5 +1,5 @@
 /**
- *
+ * Problem: https://projecteuler.net/problem=10
  * 
  */
 public class Problem10 {
